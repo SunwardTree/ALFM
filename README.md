@@ -1,10 +1,9 @@
-# A3NCF
+# ALFM
 
 A pytorch and tensorflow GPU implementation for the paper:
 
 Zhiyong Cheng, Ying Ding, Lei Zhu, Mohan Kankanhalli (2018). Aspect-Aware Latent Factor Model:  Rating Prediction with Ratings and Reviews.
 
-**Please cite the IJCAI'18 paper if you use our codes. Thanks!**
 
 
 ## The requirements are as follows:
